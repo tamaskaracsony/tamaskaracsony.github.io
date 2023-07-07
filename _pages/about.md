@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Ph.D. Candidate</b> affiliated with <a href='http://www.inesctec.pt/'>INESC-TEC</a>, <a href='https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=682'>FEUP PDEEC</a>, <a href='https://www.ri.cmu.edu/'>CMU RI</a>.
 
 profile:
   align: right
@@ -17,6 +17,7 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+talks: true # includes talks
 ---
 
 I am a Ph.D. candidate in the Carnegie Mellon Portugal affiliated Ph.D. ([CMU Portugal](https://www.cmuportugal.org/)) program in the Doctoral Program in Electrical and Computer Engineering ([PDEEC](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=682)), at the Department of Electrical and Computer Engineering of the Faculty of Engineering of the University of Porto (FEUP), Portugal, and a researcher at [INESC-TEC](http://www.inesctec.pt/): Institute for Systems and Computer Engineering, in the Center for Biomedical Engineering Research (C-BER) in the Biomedical Research And INnovation (BRAIN) research group. 
